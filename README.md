@@ -1,5 +1,5 @@
 # Awesome Things
-Some cool things I found on the internet or products.
+Some cool things I found on the internet or products. Maybe get inspired for future ideas? 😆
 
 ## 1. Spotify / Progress Bar Star Wars lightsaber
 Desktop client, play star wars theme song and the progress bar changes to a lightsaber. Click to change it.
